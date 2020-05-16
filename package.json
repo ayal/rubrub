@@ -9,10 +9,12 @@
   ],
   "main": "src/index.tsx",
   "dependencies": {
-    "hubhub": "1.0.89",
+    "@material-ui/core": "^4.9.14",
+    "@material-ui/icons": "^4.9.1",
+    "hubhub": "^1.0.104",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "react-scripts": "3.3.0"
+    "react-scripts": "^3.4.0"
   },
   "devDependencies": {
     "@types/react": "16.9.19",
